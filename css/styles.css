@@ -1,0 +1,156 @@
+/* Elements */
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat-Black900', sans-serif;
+  font-size: 3.5rem;
+  line-height: 5rem;
+  font-weight: bold;
+  color: black;
+}
+
+h2 {
+  font-family: 'Montserrat-Black900', sans-serif;
+  font-size: 2.5rem;
+  line-height: 3.5rem;
+  color: black;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Montserrat-Black900', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Id */
+
+#title {
+  background-image: linear-gradient(#E60965, #FFD93D);
+  text-align: left;
+}
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+}
+
+#testimonials {
+  background-image: linear-gradient(#E60965, #FFD93D);
+  padding: 7% 10% 3%;
+}
+
+#press {
+  background-image: linear-gradient(#E60965, #FFD93D);
+  padding: 4% 7%;
+}
+
+#pricing {
+  padding: 7% 15%;
+}
+
+#download {
+  background-image: linear-gradient(#E60965, #FFD93D);
+  padding: 7% 15%;
+}
+
+#footer {
+  margin: 3% auto 3% auto;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding-bottom: 10%;
+}
+
+.nav-item {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 5% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  margin-left: 20%;
+  transform: rotate(25deg);
+}
+
+/* Features */
+
+.col-lg-4 {
+  padding: 5%;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FFD93D;
+
+}
+
+/* Testimonials */
+
+.testimonial-image {
+  width: 200px;
+  border-radius: 100%;
+  margin: 3%;
+}
+
+/* Press */
+
+.press-logo {
+  width: 15%;
+  margin: 20px 30px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Pricing */
+
+.naming {
+  font-size: 2rem;
+  color: black;
+}
+
+.pricing-heading {
+  padding: 3% 3% 3%;
+
+}
+
+/* Call to action */
+
+.download-button2 {
+  margin: 5% 2% 5% 2% ;
+}
